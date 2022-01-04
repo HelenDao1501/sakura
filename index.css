@@ -1,1 +1,28 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  magin: 0;
+}
 
+h1, h2, p{
+  magin-top: 0;
+}
+
+#top{
+  background-color: pink;
+  color: brown;
+  text-align: center;
+  padding: 10px 20px;
+  magin-bottom: 30px;
+}
+
+#top h1{
+  magin-bottom: 15px;
+}
+
+#bottom{
+  text-align: center;
+  font-weight: 700;
+  background-color: pink;
+  line-height:30px;
+  magin-top: 30px;
+}
