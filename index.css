@@ -26,3 +26,23 @@ h1, h2, p{
   line-height:30px;
   magin-top: 30px;
 }
+
+#main{
+  padding: 0 320px 0 20px;
+  line-height: 25px;
+}
+
+#main h1, #main h2{
+  margin: 10px 0 15px;
+}
+
+#sidebar{
+  position: absolute;
+  right:0;
+  top: 0;
+  width: 370px;
+  font-size: 14x;
+  border: 2px dashed pink;
+  
+  
+}
