@@ -1,4 +1,4 @@
-# Practice website!
+Practice time
 
 ## What's in this project?
 A practice web using HTML&CSS
